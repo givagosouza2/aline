@@ -1,6 +1,6 @@
 streamlit
-pandas as pd
-matplotlib.pyplot as plt
-numpy as np
+pandas
+matplotlib
+numpy
 scipy
 curve_fit
