@@ -1,0 +1,6 @@
+streamlit
+pandas as pd
+matplotlib.pyplot as plt
+numpy as np
+scipy
+curve_fit
