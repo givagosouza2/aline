@@ -4,3 +4,7 @@ matplotlib
 numpy
 scipy
 curve_fit
+skew
+Ellipse
+leastsq
+ConvexHull
