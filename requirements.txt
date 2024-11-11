@@ -6,3 +6,4 @@ scipy
 curve_fit
 skew
 Ellipse
+mpl_toolkits
